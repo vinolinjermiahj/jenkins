@@ -1,5 +1,5 @@
 package com.sanumala;
-public class HelloWorld
+public class Welcome
 {   
       public static void main(String[] args)
       {       
